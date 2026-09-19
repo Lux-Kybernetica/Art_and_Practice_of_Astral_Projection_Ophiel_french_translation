@@ -1033,7 +1033,7 @@ On vous a fourni une liste d’utilisations possibles de ce corps une fois que v
 
 2. Vous pouvez établir votre Corps de Lumière comme observateur ; en agissant ainsi, il peut pénétrer les Plans Intérieurs et vous rapporter des informations.
 
-3. Il est possible, selon l’auteur, de pratiquer la guérison du corps au moyen de ce Familier. Vous pouvez transférer la maladie au Corps de Lumière, puis la traiter là-bas et l’en retirer.
+3. Il est possible de pratiquer la guérison du corps au moyen de ce Familier. Vous pouvez transférer la maladie au Corps de Lumière, puis la traiter là-bas et l’en retirer.
 
 4. Vous pouvez invoquer des forces Divines dans ce corps, puis occuper vous-même le corps. Une expérience terrifiante de puissance !
 
