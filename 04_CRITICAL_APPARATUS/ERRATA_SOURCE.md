@@ -2,6 +2,10 @@
 
 Ce fichier recense uniquement des anomalies visibles dans le PDF source. Il ne les corrige pas silencieusement dans la traduction.
 
+## PDF p. 11 — `welding the Occult Forces`
+
+La source imprime littéralement `welding the Occult Forces`. Le contexte semble appeler `wielding` (« manier »), mais cette correction n'est pas attestée par le PDF. La traduction emploie « manier » tout en signalant explicitement la leçon imprimée.
+
 ## PDF p. 40 — numérotation des doigts
 
 Dans l'exercice de la main, la source enchaîne :
