@@ -2,6 +2,16 @@
 
 Projet de traduction française critique de **The Art & Practice of Astral Projection**, par Ophiel.
 
+## État actuel
+
+✅ **Premier jet français intégral terminé : PDF p. 1-74.**
+
+Lecture continue : `05_BUILD/Ophiel_FR_DRAFT.md`  
+État détaillé : `STATUS.md`  
+Contrôle du draft : `04_CRITICAL_APPARATUS/QA_DRAFT_V1.md`
+
+Le texte reste marqué **DRAFT** jusqu'à la relecture bilingue phrase par phrase.
+
 ## Objectif
 
 Produire deux sorties distinctes :
